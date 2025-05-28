@@ -18,9 +18,9 @@ h3 {font-size: 25px}
 
 img {max-width: 100%}
 .feature {height: 350px; padding: 0px}
-#feature1 {background-image:url("/web/20231224114729im_/http://nevadadarkskies.org/images/looking-up.jpg"); background-position: center; display: flex; justify-content: center;
+#feature1 {background-image:url("https://cdn.shopify.com/s/files/1/0423/7623/3110/files/looking-up.jpg?v=1748451865"); background-position: center; display: flex; justify-content: center; 
   align-items: center;}
-#feature2 {background-image: url("/web/20231224114729im_/http://nevadadarkskies.org/images/starryfield.jpeg"); display: flex; justify-content: center;
+#feature2 {background-image: url("https://cdn.shopify.com/s/files/1/0423/7623/3110/files/nevada-stars.jpg?v=1748452135"); display: flex; justify-content: center;
   align-items: center;}	
 .feature h2 {color: white; text-align: center;max-width: 70%; }
 footer a {color: white; text-decoration: none}
@@ -35,23 +35,3 @@ p {line-height: 25px}
 .button {display: block; background-color:#0c105c; height: 50px; width: 150px}
 
 .caption {font-size: 12px}
-/*
-     FILE ARCHIVED ON 11:47:29 Dec 24, 2023 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:38:08 May 17, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.519
-  exclusion.robots: 0.022
-  exclusion.robots.policy: 0.011
-  esindex: 0.01
-  cdx.remote: 64.903
-  LoadShardBlock: 125.838 (3)
-  PetaboxLoader3.datanode: 141.17 (4)
-  load_resource: 171.643
-  PetaboxLoader3.resolve: 113.573
-*/
